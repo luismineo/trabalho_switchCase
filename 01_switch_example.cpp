@@ -37,6 +37,4 @@ int main(){
         printf("O numero deve ser apenas de 1 a 5!\n");
         break;
     }
-
-
 }
